@@ -7,7 +7,7 @@ description: "Mwongozo kamili wa paneli za kudhibiti alama za wizi za Athenalarm
 keywords: ["paneli ya kudhibiti alama za wizi", "paneli ya kudhibiti alama za uvamizi", "paneli ya alama za usalama", "paneli ya alama za mwizi"]
 ---
 
-# Faida Kuu za Athenalarm AS-9000 Series Burglar Alarm Control Panel
+# Faida Kuu za Athenalarm AS-9000 Series Paneli ya Kudhibiti Alama za Wizi
 
 ![AS-9000 Series Paneli ya Kudhibiti Alama za Wizi](https://athenalarm.com/wp-content/uploads/2022/02/Athenalarm-alarm-control-panel.jpg)
 
