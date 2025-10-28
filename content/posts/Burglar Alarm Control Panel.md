@@ -9,7 +9,7 @@ keywords: ["paneli ya kudhibiti alama za wizi", "paneli ya kudhibiti alama za uv
 
 # Faida Kuu za Athenalarm AS-9000 Series Burglar Alarm Control Panel
 
-![AS-9000 Series Burglar Alarm Control Panel](https://athenalarm.com/wp-content/uploads/2022/02/Athenalarm-alarm-control-panel.jpg)
+![AS-9000 Series Paneli ya Kudhibiti Alama za Wizi](https://athenalarm.com/wp-content/uploads/2022/02/Athenalarm-alarm-control-panel.jpg)
 
 - **Usalama Ulioboreshwa kwa Mazingira Yenye Hatari Kuu**: Mifumo ya kiwango cha viwanda kama AS-9000 hutoa ulinzi thabiti na maeneo yanayoweza kupanuliwa kwa mipangilio tata ya biashara na taasisi.  
 - **Uendeshaji Rahisi na Unaotegemeka**: Arifa za njia nyingi na kugundua uvunjaji hupunguza arifa za uongo, zikihakikisha majibu ya haraka.  
@@ -21,13 +21,13 @@ keywords: ["paneli ya kudhibiti alama za wizi", "paneli ya kudhibiti alama za uv
 
 Katika usalama wa kisasa, **paneli ya kudhibiti alama za wizi** inayotegemeka ni muhimu. Pia inajulikana kama **paneli ya kudhibiti alama za uvamizi**, **paneli ya alama za usalama**, au **paneli ya alama za mwizi**, inafanya kazi kama ubongo wa mfumo wako wa usalama—ikigundua vitisho na kutoa arifa.  
 
-**[Athenalarm AS-9000 Series Burglar Alarm Control Panels](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/)** inajitofautisha kwa muundo wa kiwango cha viwanda, ikisaidia maeneo ya waya na bila waya, na kuingiza chaguzi za mawasiliano za hali ya juu kama **4G na TCP/IP** kwa ufuatiliaji wa wakati halisi.
+**[Paneli ya kudhibiti alama za wizi za Athenalarm AS-9000 series](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/)** inajitofautisha kwa muundo wa kiwango cha viwanda, ikisaidia maeneo ya waya na bila waya, na kuingiza chaguzi za mawasiliano za hali ya juu kama **4G na TCP/IP** kwa ufuatiliaji wa wakati halisi.
 
 ---
 
 ## Sifa Kuu kwa Muhtasari
 
-![AS-9000 Series Key Features](https://athenalarm.com/wp-content/uploads/2025/10/Athenalarm-alarm-control-panel-1.jpg)
+![AS-9000 Series Sifa Kuu](https://athenalarm.com/wp-content/uploads/2025/10/Athenalarm-alarm-control-panel-1.jpg)
 
 - Uwezo wa kupanuliwa hadi **maeneo 1,656**  
 - Mabodi ya LCD yenye akili na maelekezo ya sauti  
@@ -45,7 +45,7 @@ Inafaa kwa **vituo vya kifedha, vifaa vya viwanda, na maeneo ya biashara**, pane
 
 Kwa wasimamizi wa ununuzi, AS-9000 inalinganisha gharama na utendaji. Wasiliana na Athenalarm kwa nukuu maalum.
 
-![AS-9000 Series Key Functions](https://athenalarm.com/wp-content/uploads/2025/10/Athenalarm-alarm-control-panel-2-scaled.jpg)
+![AS-9000 Series Kazi Kuu](https://athenalarm.com/wp-content/uploads/2025/10/Athenalarm-alarm-control-panel-2-scaled.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ Inazimishwa na **32-bit ARM microprocessor**, inachakata data kwa wakati halisi 
 - Uendeshaji wa 24/7 na betri ya akiba  
 - Vyeti: IEC-62368-1, CCC  
 
-![AS-9000 Series Key Functions](https://athenalarm.com/wp-content/uploads/2025/10/Athenalarm-alarm-control-panel-3.jpg)
+![AS-9000 Series Kazi Kuu](https://athenalarm.com/wp-content/uploads/2025/10/Athenalarm-alarm-control-panel-3.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ Inazimishwa na **32-bit ARM microprocessor**, inachakata data kwa wakati halisi 
 
 ## Matumizi Halisi
 
-![AS-9000 System Installation Diagram](https://athenalarm.com/wp-content/uploads/2023/11/Large-scale-Bus-wire-Network-Alarm-System-Application-Architecture-Diagram.jpg)
+![AS-9000 Mchoro wa Usakinishaji](https://athenalarm.com/wp-content/uploads/2023/11/Large-scale-Bus-wire-Network-Alarm-System-Application-Architecture-Diagram.jpg)
 
 - **Taasis za Kifedha**: Uwezo wa kupanua maeneo mengi na arifa za mara moja  
 - **Vituo vya Biashara/Viwanda**: Maeneo yanayopanuliwa kwa maeneo makubwa  
